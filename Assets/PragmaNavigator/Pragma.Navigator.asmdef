@@ -1,0 +1,19 @@
+{
+    "name": "Pragma.Navigator",
+    "rootNamespace": "Pragma.Navigator",
+    "references": [
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:49b49c76ee64f6b41bf28ef951cb0e50",
+        "GUID:1e5b73be4ea094d45a5e61f75f657613"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
